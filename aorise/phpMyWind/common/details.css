@@ -1,0 +1,14 @@
+.myfooter{background: #ACA9A9;
+		height: 200px;
+		width: 100%;
+		margin-top: 60px;}
+.myimg4 {padding-top:15px;}
+.myimg4 img{padding-left:200px;
+			display: inline-block;}
+.myimg4 p{line-height:30px;
+		  color:#000000;
+		  margin-left: 140px;}
+.code{margin-top: -120px;
+	  padding-left:780px;}
+.code p{color:#000000;
+		margin-left: 15px;}

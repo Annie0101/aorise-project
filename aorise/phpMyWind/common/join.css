@@ -1,0 +1,117 @@
+.{margin: 0;
+  padding:0;}
+ /*整体DIV*/
+ .myDiv{background-color: #FCF9F9;
+	   position: relative;}
+/*导航栏*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    background: #fff;
+    opacity: 0.8;
+}
+.header-logo {
+
+}
+.header-nav {
+	display: inline-block;
+    line-height: 33px;
+}
+.header-nav ul {
+}
+.header-nav ul li {
+    list-style: none;
+    float: left;
+    background: url(../images/nav-logo.PNG) no-repeat;
+    width: 100px;
+    margin-left: 17px;
+    padding-left: 21px;
+}
+.header-nav ul li a{
+	text-decoration: none;
+	color: #337ab7;
+}
+.myImg{display: inline-block;}
+.myImg img{margin-top: 55px;
+		   width: 1500px;
+		   height: 150px;}
+.myImg p{float: left;
+		margin-left: 125px;
+		margin-top: 240px;
+		 font-weight: bold;}
+.myImg span{float:left ;
+			margin-left: 1260px;
+			margin-top: 40px;}
+/*内容*/
+.sectionDiv{width: 1410px;
+			margin-left: 230px;
+			}
+
+
+.myFont{width: 1410px;
+		height: 240px;
+		margin-left: 0px;
+		background-color: #C9C5C5;}
+.myFont h1{margin-left: 17px;
+		   position: absolute;
+		   top: 280px;
+		   font-size: 30px;}
+.myFont .mySpan{position: absolute;
+				top: 350px;
+				margin-left: 20px;
+				width: 1370px;}
+.myFont .mySpan1{position: absolute;
+				 top: 422px;
+				 margin-left: 20px;
+				 font-size: 20px;
+				 font-weight: bold;}
+.myInput{position: absolute;
+		 top: 420px;
+		 margin-left: 135px;}
+.myInput1{position: absolute;
+		 top: 420px;
+		 margin-left: 300px;}
+
+
+.myFont1{width: 1390px;
+		height: 240px;
+		margin-left: 250px;
+		margin-top: 0px;}
+.myFont1 a{margin-left: 0px;
+		   margin-top: 20px;
+		   font-size: 30px;}
+.myFont1 p{margin-left: 0px;
+		   margin-top: 10px;}
+.myFont1 .mySpan2{margin-top: 0px;
+				  margin-left: 0px;
+				  width: 1370px;}
+.myFont1 .mySpan3{color: #FFFFFF;
+				  border-radius: 20px 20px;
+				  padding: 2px;
+				  background-color: #000000;}
+.myFont1 .mySpan4{margin-top: 200px;}
+.myFont1 .mySpan5{margin-left: 0px;
+				  background-color: #4BCAF9;
+				  color: #ffffff;
+				  border-radius: 20px 20px;
+				  padding: 2px;}
+
+
+
+
+
+.myfooter{background: #ACA9A9;
+		height: 200px;
+		width: 100%;
+		margin-top: 60px;}
+.myimg4 {padding-top:15px;}
+.myimg4 img{padding-left:200px;}
+.myimg4 p{line-height:30px;
+		text-align:center;
+		color:#000000;}
+.code{padding-top:30px;
+	  padding-left:100px;}
+.code p{color:#000000;
+		margin-left: 15px;}

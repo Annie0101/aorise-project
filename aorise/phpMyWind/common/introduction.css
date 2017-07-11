@@ -1,0 +1,100 @@
+.{margin: 0;
+  padding:0;}
+ /*整体DIV*/
+ .myDiv{background-color: #FCF9F9;
+	   width: 1900px;
+	   position: relative;}
+/*导航栏*/
+.navDiv{width: 1900px;height: 76px;margin-top: -8px;}
+.myImg{display: inline-block;}
+.myImg img{position: absolute;
+		   top: 0px;
+		   left: 0px;}
+.myImg p{float: left;
+		margin-left: 125px;
+		margin-top: 240px;
+		 font-weight: bold;}
+.myImg span{float:left ;
+			margin-left: 1260px;
+			margin-top: 240px;}
+.myLine{border-bottom: 1px solid #888686;
+		width: 1550px;
+		margin-left: 125px;}
+/*内容*/
+.sectionDiv{display: inline-block; position: relative;}
+.sectionDiv h1{float:left ;
+			   margin-left: 660px;
+			   margin-top: 240px;
+			   font-size: 35px;}
+.myLine2{border-bottom: 1px solid #000000;
+		width: 1550px;
+		margin-left: 125px;
+		margin-top: 300px;}
+.sectionDiv .myTime span{position: absolute;
+						 left: 760px;}
+.myLine3{border-bottom: 1px solid #000000;
+		width: 1550px;
+		margin-left: 125px;
+		margin-top: 20px;}
+.myFont{border: 1px solid#F6B007;
+		background-color: #FCFBC3;
+		widows: 1425px;
+		height: 90px;
+		margin-left: 125px;
+		margin-top: 30px;}
+.myFont p{width: 1530px;
+		  margin-left: 0px;}
+.myFont1{margin-left: 125px;
+		 width: 1550px;}
+.smallFont{margin-left: 1430px;}
+.myFont2{}
+.smallFont1{position: absolute;
+			top: 1110px;}
+
+.smallFont2{position: absolute;
+			top: 1135px;}
+.myImg1{margin-left: 1410px;
+		margin-top: 40px;}
+.myBox{border: 2px solid #7A7A7A;
+	   background-color: #E3E3E3;
+	   width: 80px;
+	   height: 30px;
+	   margin-top: 40px;}
+.boxFont{color: #ff0000;
+		line-height: 30px;}
+.boxDiv{width: 1550px;
+		height: 80px;
+		margin-top: 30px;
+		background-color: #EDEDED;}
+.myInput{width: 1458px;
+		 height: 30px;
+		 background-color: #E9E9E9;}
+.myInput1{width: 80px;
+		 height: 30px;}
+.myFooter {position: absolute;
+		   background-color: #526171;
+		   text-align: center;
+		   width: 1900px;
+		   height: 200px;
+		   background-color:#A3A3A3;
+		   left: 0px;
+		   top: 1500px;
+		   display: inline-block;}
+.myFooter img{position: absolute;
+			  top: 20px;
+			  left: 400px;}
+.myFooter span{float: left;
+			   margin-top: 80px;
+			   margin-left:250px;}
+.myP{position: absolute;
+	 top: 100px;
+	 left: 325px;}
+.myP1{position: absolute;
+		top: 140px;
+	 	left: 250px;}
+.codeDiv img{position: absolute;
+		 top: 25px;
+		 left: 1600px;}
+.codeDiv span{position: absolute;
+			  top: 90px;
+			  left: 1355px;}
